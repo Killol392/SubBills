@@ -105,5 +105,5 @@ Recurring payments and reminders
 
 ## License
 
-This project is an intellectual property of its creator and is provided for educational and portfolio purposes only.
+This project is an intellectual property of its creator.
 
